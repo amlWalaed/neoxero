@@ -54,7 +54,7 @@ const options = {
                         </a>
                     </div>
                     <div>
-                        <img src="images/01.png" />
+                        <img src="/images/01.png" />
                     </div>
 
                 </div>
